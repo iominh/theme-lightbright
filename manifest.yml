@@ -1,8 +1,8 @@
 ---
-name : twitter
-website : http://twitter.github.com/bootstrap
-git_url : git://github.com/jekyllbootstrap/theme-twitter.git
-source_url : https://github.com/jekyllbootstrap/theme-twitter
+name : lightbright
+website : https://github.com/minhongrails/theme-lightbright
+git_url : git://github.com/minhongrails/theme-lightbright.git
+source_url : https://github.com/minhongrails/theme-lightbright.git
 author:
-  name : "Jacob Thornton and Mark Otto"
-  website : http://twitter.github.com/bootstrap
+  name : "Jacob Thornton and Mark Otto (Bootstrap) and Elegant Themes (LightBright)"
+  website : http://twitter.github.com/bootstrap,http://www.elegantthemes.com/gallery/lightbright/
